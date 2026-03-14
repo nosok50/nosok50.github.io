@@ -20,6 +20,10 @@ facebook.com, 1457380452600054, RESELLER, c3e20eee3f780d68
 
 #Add other networks if applicable
 
+# Yandex & Yango
+yandex.com, 314211549, DIRECT
+yango-ads.com, 314211549, DIRECT
+
 #Resellers
 
 152media.info, 152M312, RESELLER
